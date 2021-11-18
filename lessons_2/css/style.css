@@ -5,7 +5,8 @@
 
 body {
     position: relative;
-    
+    margin-left: 8%;
+    margin-right: 8%;
 }
 .box-grand {
     position: relative;
@@ -72,7 +73,7 @@ body {
     text-align: left;
 }
 
-h2 {
+span {
     position: absolute;
     top: 374px;
     left: 621px;
@@ -80,12 +81,12 @@ h2 {
     width: 103px;
     height: 28px;
     font-size: 22px;
-    font-family: arial;
+    font-family: arial, bold;
     text-decoration-color: #2F2F2F;
     text-align: left;
 }
 
-article {
+button {
     position: absolute;
     top: 457px;
     left: 620px;
