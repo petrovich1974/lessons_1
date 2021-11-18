@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    position: relative;
+    
+}
+.box-grand {
+    position: relative;
+    width: 1200px;
+    height: 675px;
+    background-color: wheat;
+}
+
+.box {
+    position: absolute;
+    top: 85px;
+    left: 94px;
+    width: 1011px;
+    height: 504px;
+    background-color:#D7D7D7;   
+}
+ .box2 {
+    position: absolute;
+    top: 150px;
+    left: 143px;
+    right: 681px;
+    width: 376px;
+    height: 375px;
+    padding: 65px 586px 64px 49px;
+    background-image: url(/img/beats.png);
+    background-repeat: no-repeat;
+ }
+
+ h1 {
+    position: absolute;
+    top: 180px;
+    left: 618px;
+    right: 404px;
+    width: 178px;
+    height: 24px;
+    font-size: 18px;
+    font-family: arial, bold;
+    text-decoration-color: #2F2F2F; 
+    text-align: left;
+ }
+
+ .box3 {
+    position: absolute;
+    top: 232px;
+    left: 619px;
+    right: 93px;
+    width: 393px;
+    height: 50px;
+    font-size: 14px;
+    font-family: arial, bold;
+    text-decoration-color: #2F2F2F;
+    text-align: left;
+}
+.box4 {
+    position: absolute;
+    top: 337px;
+    left: 619px;
+    right: 546px;
+    width: 35px;
+    height: 12px;
+    font-size: 13px;
+    font-family: arial;
+    text-decoration-color: #2F2F2F;
+    text-align: left;
+}
+
+h2 {
+    position: absolute;
+    top: 374px;
+    left: 621px;
+    right: 476px;
+    width: 103px;
+    height: 28px;
+    font-size: 22px;
+    font-family: arial;
+    text-decoration-color: #2F2F2F;
+    text-align: left;
+}
+
+article {
+    position: absolute;
+    top: 457px;
+    left: 620px;
+    right: 327px;
+    width: 253px;
+    height: 51px;
+    font-size: 15px;
+    background-color: salmon;
+    font-family: arial;
+    color: #e9dede;
+    text-align: center;
+    padding: 17px 39px 16px 40px;
+}
+
+  
